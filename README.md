@@ -1,13 +1,8 @@
 # practicagit
 <<<<<<< HEAD
 Raisa Orellana
-=======
-<<<<<<< HEAD
 nahuel
-=======
-<<<<<<< HEAD
 aida laricchia
-=======
 sofia barbeito
 Enrique Benzano
 
